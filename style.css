@@ -1,0 +1,350 @@
+.Devil_cry{
+width: 2200px;
+height: 550px;
+text-align: center
+}
+body{
+background-color: black;
+font-family: Bradley Hand, cursive;
+color: silver
+}
+h1{
+text-align: center;
+font-size: 40px
+}
+.Devil_May_Cry_1{
+width: 700px; height: 300px
+}
+p{
+font-size: 25px
+}
+.blue_and_red{
+width: 2200px;
+height: 100px
+}
+h2{
+text-align: center;
+font-size: 35px
+}
+.Devil_May_Cry_2{
+width: 700px; height: 325px
+}
+.Devil_May_Cry_3{
+width: 700px; height: 325px
+}
+.Devil_May_Cry_4{
+width: 700px; height: 325px
+}
+.Devil_May_Cry_5{
+width: 700px; height: 400px
+}
+.Sparda{
+height:600px
+}
+.Sparda2{
+border: 2px solid red;
+border-radius: 10px
+}
+.Sparda1{
+font-size: 20px;
+text-align: center
+}
+h3{
+text-align: center;
+font-size: 25px
+}
+.Eva{
+height: 800px
+}
+table, tr, td{
+colspan: colspan;
+rowspan: rowspan
+}
+.Eva2{
+border: 2px solid red;
+border-radius: 10px
+}
+.Eva1{
+font-size: 20px
+}
+.Dante2{
+border: 2px solid red;
+border-radius: 10px
+}
+.Dante{
+width:1000px;
+height: 550px
+}
+.Dante1{
+font-size: 20px
+}
+.Vergil2{
+border: 2px solid #3b0d7c;
+border-radius: 10px
+}
+.Vergil{
+width:1000px;
+height: 550px
+}
+.Vergil1{
+font-size: 20px
+}
+.Vergil0{
+width: 2200px;
+height: 550px;
+text-align: center
+}
+.V{
+height: 600px
+}
+.V2{
+border: 2px solid #3b0d7c;
+border-radius: 10px
+}
+.V1{
+font-size: 20px
+}
+.Nero{
+height: 600px
+}
+.Nero2{
+border: 2px solid #3b609e;
+border-radius: 10px
+}
+.Nero1{
+font-size:20px
+}
+.Uryzon{
+height: 660px
+}
+.Uryzon2{
+border: 2px solid #3b0d7c;
+border-radius: 10px
+}
+.Uryzon1{
+font-size: 20px
+}
+.Lady{
+width:1000px;
+height: 550px
+}
+.Lady2{
+border: 2px solid #7bb5ff;
+border-radius: 10px
+}
+.Lady1{
+font-size: 20px
+}
+.Trish{
+height: 800px
+}
+.Trish2{
+border: 2px solid #dacd66;
+border-radius: 10px
+}
+.Trish1{
+font-size: 20px
+}
+.Nico{
+width:1000px;
+height: 500px
+}
+.Nico2{
+border: 2px solid #c86537;
+border-radius: 10px
+}
+.Nico1{
+font-size: 20px
+}
+.Lucia{
+width: 800px
+}
+.Lucia2{
+border: 2px solid #ff0053;
+border-radius: 10px
+}
+.Lusia{
+font-size: 20px
+}
+.Pro_Devil_May_Cry{
+font-size: 40px;
+  font-weight: bold;
+  background: linear-gradient(
+    90deg,
+    red,
+    blue
+  );
+  background-size: 400%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: rainbow 5s linear infinite;
+}
+
+@keyframes rainbow {
+  0% {
+    background-position: 0%;
+  }
+  100% {
+    background-position: 100%;
+  }
+}
+.Do_Devil_May_Cry_5{
+font-size: 40px;
+  font-weight: bold;
+  background: linear-gradient(
+    90deg,
+    rgb(134, 101, 255),
+    rgb(255, 61, 110)
+  );
+  background-size: 400%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: rainbow 5s linear infinite;
+}
+
+@keyframes rainbow {
+  0% {
+    background-position: 0%;
+  }
+  100% {
+    background-position: 100%;
+  }
+}
+.Sparda_bober{
+font-size: 40px;
+  font-weight: bold;
+  background: linear-gradient(
+    90deg,
+    rgb(76, 0, 0),
+    rgb(255, 0, 0),
+    rgb(18, 0, 0)
+  );
+  background-size: 400%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: rainbow 5s linear infinite;
+}
+
+@keyframes rainbow {
+  0% {
+    background-position: 0%;
+  }
+  100% {
+    background-position: 100%;
+  }
+}
+.Eva_bober{
+font-size: 40px;
+  font-weight: bold;
+  background: linear-gradient(
+    90deg,
+    rgb(255, 19, 102),
+    rgb(255, 202, 68),
+    rgb(50, 50, 50)
+  );
+  background-size: 400%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: rainbow 5s linear infinite;
+}
+
+@keyframes rainbow {
+  0% {
+    background-position: 0%;
+  }
+  100% {
+    background-position: 100%;
+  }
+}
+.Vergil_bober{
+font-size: 40px;
+  font-weight: bold;
+  background: linear-gradient(
+    90deg,
+    rgb(0, 229, 255),
+    rgb(13, 0, 255),
+    rgb(162, 0, 255)
+  );
+  background-size: 400%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: rainbow 5s linear infinite;
+}
+
+@keyframes rainbow {
+  0% {
+    background-position: 0%;
+  }
+  100% {
+    background-position: 100%;
+  }
+}
+.Nero_bober{
+font-size: 40px;
+  font-weight: bold;
+  background: linear-gradient(
+    90deg,
+    rgb(0, 229, 255),
+    rgb(104, 36, 36),
+    rgb(159, 159, 159)
+  );
+  background-size: 400%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: rainbow 5s linear infinite;
+}
+
+@keyframes rainbow {
+  0% {
+    background-position: 0%;
+  }
+  100% {
+    background-position: 100%;
+  }
+}
+.Lady_bober{
+font-size: 40px;
+  font-weight: bold;
+  background: linear-gradient(
+    90deg,
+    rgb(255, 255, 255),
+    rgb(144, 144, 144),
+    rgb(0, 0, 0)
+  );
+  background-size: 400%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: rainbow 5s linear infinite;
+}
+
+@keyframes rainbow {
+  0% {
+    background-position: 0%;
+  }
+  100% {
+    background-position: 100%;
+  }
+}
+.Nico_bober{
+font-size: 40px;
+  font-weight: bold;
+  background: linear-gradient(
+    90deg,
+    rgb(255, 208, 0),
+    rgb(134, 108, 0),
+    rgb(53, 45, 0)
+  );
+  background-size: 400%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: rainbow 5s linear infinite;
+}
+
+@keyframes rainbow {
+  0% {
+    background-position: 0%;
+  }
+  100% {
+    background-position: 100%;
+  }
+}
